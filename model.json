@@ -119,12 +119,12 @@
       "maximumMultiplicity": "",
       "minimumMultiplicity": "",
       "mro": "",
-      "name": "Text",
+      "name": "MultiMedia",
       "relationshipType": "specialisation",
       "type": "",
       "valueDomain": [
         {
-          "type": ""
+          "type": "PRSB-Standards/WRIST-IPS-Datatypes/Text@1-build.0.1"
         }
       ],
       "valueSets": ""
