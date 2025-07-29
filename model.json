@@ -79,12 +79,12 @@
       "maximumMultiplicity": "",
       "minimumMultiplicity": "",
       "mro": "",
-      "name": "Date Time",
+      "name": "Date",
       "relationshipType": "specialisation",
       "type": "",
       "valueDomain": [
         {
-          "type": ""
+          "type": "PRSB-Standards/WRIST-IPS-Datatypes/Date Time@1-build.0.1"
         }
       ],
       "valueSets": ""
