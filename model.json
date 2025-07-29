@@ -39,12 +39,12 @@
       "maximumMultiplicity": "",
       "minimumMultiplicity": "",
       "mro": "",
-      "name": "Coded Element",
+      "name": "Code no Text",
       "relationshipType": "specialisation",
       "type": "",
       "valueDomain": [
         {
-          "type": ""
+          "type": "PRSB-Standards/WRIST-IPS-Datatypes/Coded Element@1-build.0.1"
         }
       ],
       "valueSets": ""
