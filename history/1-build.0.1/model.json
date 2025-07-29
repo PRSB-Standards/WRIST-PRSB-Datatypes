@@ -1,0 +1,173 @@
+{
+  "version": "1-build.0.0",
+  "name": "PRSB Datatypes",
+  "description": "<p><br></p>",
+  "component_sets": [
+    {
+      "name": "PRSB-Standards/WRIST-IPS-Datatypes",
+      "id": "1-build.0.1"
+    }
+  ],
+  "concept": [
+    {
+      "concept": [],
+      "derivedFrom": "PRSB-Standards/WRIST-IPS-Datatypes/Coded Element@1-build.0.1",
+      "description": "<p><br></p>",
+      "implementationGuidance": "<p><br></p>",
+      "informationType": "",
+      "isComponent": true,
+      "maximumMultiplicity": "",
+      "minimumMultiplicity": "",
+      "mro": "",
+      "name": "Code or Text",
+      "relationshipType": "specialisation",
+      "type": "",
+      "valueDomain": [
+        {
+          "type": "PRSB-Standards/WRIST-IPS-Datatypes/Coded Element@1-build.0.1"
+        }
+      ],
+      "valueSets": ""
+    },
+    {
+      "concept": [],
+      "derivedFrom": "PRSB-Standards/WRIST-IPS-Datatypes/Coded Element@1-build.0.1",
+      "description": "<p><br></p>",
+      "implementationGuidance": "<p><br></p>",
+      "informationType": "",
+      "isComponent": true,
+      "maximumMultiplicity": "",
+      "minimumMultiplicity": "",
+      "mro": "",
+      "name": "Code no Text",
+      "relationshipType": "specialisation",
+      "type": "",
+      "valueDomain": [
+        {
+          "type": "PRSB-Standards/WRIST-IPS-Datatypes/Coded Element@1-build.0.1"
+        }
+      ],
+      "valueSets": ""
+    },
+    {
+      "concept": [],
+      "derivedFrom": "PRSB-Standards/WRIST-IPS-Datatypes/Date Time@1-build.0.1",
+      "description": "<p><br></p>",
+      "implementationGuidance": "<p><br></p>",
+      "informationType": "",
+      "isComponent": true,
+      "maximumMultiplicity": "",
+      "minimumMultiplicity": "",
+      "mro": "",
+      "name": "Timestamp",
+      "relationshipType": "specialisation",
+      "type": "",
+      "valueDomain": [
+        {
+          "type": "PRSB-Standards/WRIST-IPS-Datatypes/Date Time@1-build.0.1"
+        }
+      ],
+      "valueSets": ""
+    },
+    {
+      "concept": [],
+      "derivedFrom": "PRSB-Standards/WRIST-IPS-Datatypes/Date Time@1-build.0.1",
+      "description": "<p><br></p>",
+      "implementationGuidance": "<p><br></p>",
+      "informationType": "",
+      "isComponent": true,
+      "maximumMultiplicity": "",
+      "minimumMultiplicity": "",
+      "mro": "",
+      "name": "Date and Time",
+      "relationshipType": "specialisation",
+      "type": "",
+      "valueDomain": [
+        {
+          "type": "PRSB-Standards/WRIST-IPS-Datatypes/Date Time@1-build.0.1"
+        }
+      ],
+      "valueSets": ""
+    },
+    {
+      "concept": [],
+      "derivedFrom": "PRSB-Standards/WRIST-IPS-Datatypes/Text@1-build.0.1",
+      "description": "<p><br></p>",
+      "implementationGuidance": "<p><br></p>",
+      "informationType": "",
+      "isComponent": true,
+      "maximumMultiplicity": "",
+      "minimumMultiplicity": "",
+      "mro": "",
+      "name": "Document",
+      "relationshipType": "specialisation",
+      "type": "",
+      "valueDomain": [
+        {
+          "type": "PRSB-Standards/WRIST-IPS-Datatypes/Text@1-build.0.1"
+        }
+      ],
+      "valueSets": ""
+    },
+    {
+      "concept": [],
+      "derivedFrom": "PRSB-Standards/WRIST-IPS-Datatypes/Text@1-build.0.1",
+      "description": "<p><br></p>",
+      "implementationGuidance": "<p><br></p>",
+      "informationType": "",
+      "isComponent": true,
+      "maximumMultiplicity": "",
+      "minimumMultiplicity": "",
+      "mro": "",
+      "name": "MultiMedia",
+      "relationshipType": "specialisation",
+      "type": "",
+      "valueDomain": [
+        {
+          "type": "PRSB-Standards/WRIST-IPS-Datatypes/Text@1-build.0.1"
+        }
+      ],
+      "valueSets": ""
+    },
+    {
+      "concept": [],
+      "derivedFrom": "PRSB-Standards/WRIST-IPS-Datatypes/Range@1-build.0.1",
+      "description": "<p><br></p>",
+      "implementationGuidance": "<p><br></p>",
+      "informationType": "",
+      "isComponent": true,
+      "maximumMultiplicity": "",
+      "minimumMultiplicity": "",
+      "mro": "",
+      "name": "Lower Limit Range",
+      "relationshipType": "specialisation",
+      "type": "",
+      "valueDomain": [
+        {
+          "type": "PRSB-Standards/WRIST-IPS-Datatypes/Range@1-build.0.1"
+        }
+      ],
+      "valueSets": ""
+    },
+    {
+      "concept": [],
+      "derivedFrom": "PRSB-Standards/WRIST-IPS-Datatypes/Range@1-build.0.1",
+      "description": "<p><br></p>",
+      "implementationGuidance": "<p><br></p>",
+      "informationType": "",
+      "isComponent": true,
+      "maximumMultiplicity": "",
+      "minimumMultiplicity": "",
+      "mro": "",
+      "name": "Upper Limit Range",
+      "relationshipType": "specialisation",
+      "type": "",
+      "valueDomain": [
+        {
+          "type": "PRSB-Standards/WRIST-IPS-Datatypes/Range@1-build.0.1"
+        }
+      ],
+      "valueSets": ""
+    }
+  ]
+}
