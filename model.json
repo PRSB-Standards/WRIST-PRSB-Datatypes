@@ -159,12 +159,12 @@
       "maximumMultiplicity": "",
       "minimumMultiplicity": "",
       "mro": "",
-      "name": "Range",
+      "name": "Upper Limit Range",
       "relationshipType": "specialisation",
       "type": "",
       "valueDomain": [
         {
-          "type": ""
+          "type": "PRSB-Standards/WRIST-IPS-Datatypes/Range@1-build.0.1"
         }
       ],
       "valueSets": ""
