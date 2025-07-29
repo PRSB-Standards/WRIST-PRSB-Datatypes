@@ -68,6 +68,26 @@
         }
       ],
       "valueSets": ""
+    },
+    {
+      "concept": [],
+      "derivedFrom": "PRSB-Standards/WRIST-IPS-Datatypes/Date Time@1-build.0.1",
+      "description": "<p><br></p>",
+      "implementationGuidance": "<p><br></p>",
+      "informationType": "",
+      "isComponent": true,
+      "maximumMultiplicity": "",
+      "minimumMultiplicity": "",
+      "mro": "",
+      "name": "Date Time",
+      "relationshipType": "specialisation",
+      "type": "",
+      "valueDomain": [
+        {
+          "type": ""
+        }
+      ],
+      "valueSets": ""
     }
   ]
 }
