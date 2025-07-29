@@ -108,6 +108,26 @@
         }
       ],
       "valueSets": ""
+    },
+    {
+      "concept": [],
+      "derivedFrom": "PRSB-Standards/WRIST-IPS-Datatypes/Text@1-build.0.1",
+      "description": "<p><br></p>",
+      "implementationGuidance": "<p><br></p>",
+      "informationType": "",
+      "isComponent": true,
+      "maximumMultiplicity": "",
+      "minimumMultiplicity": "",
+      "mro": "",
+      "name": "Text",
+      "relationshipType": "specialisation",
+      "type": "",
+      "valueDomain": [
+        {
+          "type": ""
+        }
+      ],
+      "valueSets": ""
     }
   ]
 }
