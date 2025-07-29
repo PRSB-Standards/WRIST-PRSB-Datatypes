@@ -79,7 +79,7 @@
       "maximumMultiplicity": "",
       "minimumMultiplicity": "",
       "mro": "",
-      "name": "Date",
+      "name": "Date and Time",
       "relationshipType": "specialisation",
       "type": "",
       "valueDomain": [
